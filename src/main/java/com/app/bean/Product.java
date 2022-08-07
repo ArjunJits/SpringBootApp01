@@ -15,5 +15,7 @@ public class Product {
     private String productName;
     private double proudctPrice;
     private Date expDate;
+    Product(){
+       
 
 }
